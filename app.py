@@ -6,3 +6,6 @@ def multiplication(a,b):
 
 def division(a,b):
     return a/b
+
+def exponent(a,b):
+    return a**b
